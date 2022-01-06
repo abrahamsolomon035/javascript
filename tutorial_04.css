@@ -1,0 +1,23 @@
+/*tutorial_04 css file */
+body{
+	text-align: center;
+	color: black;
+}
+.shoe-image{
+	width: 60%;
+	height: 60%;
+
+}
+.productdiv{
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#error{
+	width: 30%;
+	height: 30px;
+}
+p{
+	color: red;
+}
